@@ -1,0 +1,7 @@
+# Ignorar pastas nativas na contagem de linguagens
+android/* linguist-documentation
+ios/* linguist-documentation
+build/* linguist-documentation
+windows/* linguist-documentation
+linux/* linguist-documentation
+macos/* linguist-documentation
