@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Zen Reiki Logo" width="200">
+  <img src="assets/images/logo.png" alt="Zen Reiki Logo" width="200">
 </div>
 
 # 🧘‍♂️ Zen Reiki App
